@@ -69,6 +69,6 @@ We tested various machine learning models to predict age:
 ---
 ## Acknowledgments
 
-This project was completed as part of the INSY662 course at McGill University, in collaboration with Madeleine Dinh, Alexandra Guion, Juliana Hubacova, and Boyang Wan.
+This project was completed as part of the INSY662 course at McGill University, in collaboration with Alexandra Guion, Madeleine Dinh, and Juliana Hubacova.
 
 
